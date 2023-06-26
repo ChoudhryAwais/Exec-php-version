@@ -1,0 +1,450 @@
+/*Responsive the title*/
+@media screen and (max-width: 1222px)
+{
+
+
+}
+@media screen and (max-width: 1172px)
+{
+	
+
+}
+@media screen and (max-width: 1122px)
+{
+	
+
+}
+@media screen and (max-width: 1072px)
+{
+	
+
+}
+@media screen and (max-width: 1022px)
+{
+	
+}
+@media screen and (max-width: 991px)
+{
+	
+}
+
+@media screen and (max-width: 767px)
+{
+	
+}
+@media screen and (max-width: 712px)
+{
+	
+}
+@media screen and (max-width: 662px)
+{
+
+}
+
+/*responsive the title ends*/
+
+
+
+
+
+
+
+/*print responsive*/
+
+@media print
+{
+	
+	.status
+	{
+		display: none;
+	}
+	.addmore
+	{
+		display: none;
+	}
+	.topblank1
+	{
+		width: 10%
+	}
+	.printadform
+	{
+		width: 28%; 
+	}
+	.printadform p
+	{
+		font-size: 28px;
+	}
+	.topblank2
+	{
+		width: 32%
+	}
+	.printlogo 
+	{
+		width: 25%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+	.form1
+	{
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+	.section1
+	{
+		margin-left:3px;
+		width: 50%;
+	}
+	
+	.section2
+	{
+		width: 50%;
+	}
+	.section22
+	{
+		width: 20%;
+	}
+	.section222
+	{
+		width: 30%;
+	}
+	.snamec
+	{
+		width: 50%
+	}
+	.sname
+	{
+		background-color:#323E6F; 
+		padding-top: 13px;
+		padding-bottom: 13px;
+		padding-right: 8px;
+		padding-left: 7px;
+	}
+	.sfnamec
+	{
+		width: 50%
+	}
+	.fname
+	{
+		 background-color:#323E6F; 
+		 padding-top: 13px;
+		 padding-bottom: 15px;
+		 padding-right: 10px;
+		 padding-left: 10px;
+
+	}
+	.genderc
+	{	
+		width: 35%;
+	}
+	.gender
+	{
+		background-color:#323E6F; 
+		padding-top: 13px; 
+		padding-bottom:13px;
+		padding-right: 8px;
+		padding-left: 8px;
+	}
+	.dobc
+	{
+		width: 40%;
+	}
+	.dob
+	{
+		 background-color:#323E6F; 
+		 padding-top:13px; 
+		 padding-bottom:13px;
+		 padding-right: 10px;
+		 padding-left: 10px;
+	}
+	.religionc
+	{
+		width: 30%;
+	}
+	.religion
+	{
+		 background-color:#323E6F; 
+		 padding-top: 13px; 
+		 padding-bottom:13px;
+		 padding-left: 10px;
+		 padding-right: 10px;
+	}
+	.domicilec
+	{
+		width: 30%;
+	}
+	.domicile
+	{
+		 background-color:#323E6F; 
+		 padding-top: 13px; 
+		 padding-bottom:13px;
+		 padding-left: 10px;
+		 padding-right: 10px;
+	}
+	.cnicc
+	{
+		width: 60%
+	}
+	.cnic
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.nationalityc
+	{
+		width: 40%
+	}
+	.nationality
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.address
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.phonec
+	{
+		width: 30%
+	}
+	.phone
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 5px;
+		padding-right: 5px;	
+	}
+	.cellc
+	{
+		width: 30%
+	}
+	.cell
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.emailc
+	{
+		width: 40%
+	}
+	.email
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.ginfoc
+	{
+		width: 20%
+	}
+	.ginfo
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 70px;
+		padding-right: 70px;	
+	}
+	.relationc
+	{
+		width: 80%;
+	}
+	.relation
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.blankcc
+	{
+		width: 50%;
+	}
+	.relationcc
+	{
+		width: 50%;
+	}
+	.gname
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	.gcnicc
+	{
+		width: 50%;
+	}
+	.gcnic
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	.gphonec
+	{
+		width: 50%;
+	}
+	.gphone
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 11px;
+		padding-right: 11px;	
+	}
+	.gcellc
+	{
+		width: 40%;
+	}
+	.gcell
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	.gemailc
+	{
+		width: 60%;
+	}
+	.gemail
+	{
+		background-color:#323E6F; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 11px;
+		padding-right: 11px;	
+	}
+	.subjectc
+	{
+		width: 70%;	
+	}
+	.nosubjc
+	{
+		width: 30%;	
+	}
+	.line
+	{
+		display: none;
+	}
+	.blank1c
+	{
+		width: 0%;
+	}
+	.actualc
+	{
+		width: 30%;	
+	}
+	.discountc
+	{
+		width: 30%;	
+	}
+	.totalc
+	{
+		width: 30%;	
+	}
+	.blank2c
+	{
+		width: 0%;
+	}
+	.blank3c
+	{
+		width: 0%;
+	}
+	.feec
+	{
+		width: 100%;
+	}
+	.blank4c
+	{
+		width: 0%;
+	}
+	.regc
+	{
+		width: 25%;
+	}
+	.tuitionc
+	{
+		width: 25%;
+	}
+	.testc
+	{
+		width: 25%;
+	}
+	.otherc
+	{
+		width: 25%;
+	}
+	.totalc
+	{
+		width: 33%;
+	}
+	.balancec
+	{
+		width: 33%;
+	}
+	.duedatec
+	{
+		width: 33%;
+	}
+	.roll
+	{
+		background-color:#323E6F;
+		padding:13px;
+	}
+	.submitbyc
+	{
+		width: 50%;
+	}
+	.submitby
+	{
+		background-color:#323E6F;
+		padding:13px;	
+	}
+	.approvebyc
+	{
+		width: 50%;
+	}
+	.approveby
+	{
+		background-color:#323E6F;
+		padding:13px;		
+	}
+	.footer1c
+	{
+		width: 33%;
+	}
+	.footer2c
+	{
+		width: 33%;
+	}
+	.footer3c
+	{
+		width: 33%;
+	}
+}

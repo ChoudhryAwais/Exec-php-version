@@ -1,0 +1,282 @@
+/*for Subject radiobox starts*/
+
+#subj input[type=radio] + label
+{
+	color: black;
+	font-weight: 500;
+	margin: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+#subj input[type=radio]
+{
+	display: none;
+}
+#subj input[type=radio] + label:before
+{
+	content: "\2714";	
+	border:0.1em solid gray;
+	border-radius: 2em;
+	display: inline-block;
+	padding-left: 0.3em;
+	padding-right: 0.2em;
+	padding-bottom: 0.3em;
+	padding-top: 0.2em;
+	margin-right: 0.2em;
+	vertical-align: center;
+	color: transparent;
+	transition: .3s;
+
+}
+#subj input[type=radio] + label:active:before
+{
+	transform: scale(0);
+}
+#subj input[type=radio]:checked +label:before
+{
+	background-color: white;
+	color: black;
+}
+
+
+/*for subject radiobox ends*/
+
+
+
+/*for Subject checkboxbox starts*/
+
+#subjs input[type=checkbox] + label
+{
+	color: black;
+	font-weight: 500;
+	margin: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+#subjs input[type=checkbox]
+{
+	display: none;
+}
+#subjs input[type=checkbox] + label:before
+{
+	content: "\2714";	
+	border:0.1em solid gray;
+	border-radius: 0.5em;
+	display: inline-block;
+	padding-left: 0.3em;
+	padding-right: 0.2em;
+	padding-bottom: 0.3em;
+	padding-top: 0.2em;
+	margin-right: 0.2em;
+	vertical-align: center;
+	color: transparent;
+	transition: .3s;
+
+}
+#subjs input[type=checkbox] + label:active:before
+{
+	transform: scale(0);
+}
+#subjs input[type=checkbox]:checked +label:before
+{
+	background-color: white;
+	color: black;
+}
+
+
+/*for subject checkbox ends*/
+
+
+
+
+
+/*for Subject checkboxbox starts*/
+
+#halfs input[type=checkbox] + label
+{
+	color: white;
+	font-weight: 500;
+	margin: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+#halfs input[type=checkbox]
+{
+	display: none;
+}
+#halfs input[type=checkbox] + label:before
+{
+	content: "\2714";	
+	border:0.1em solid white;
+	border-radius: 2em;
+	display: inline-block;
+	padding-left: 0.02em;
+	padding-right: 0.02em;
+	padding-bottom: 0.02em;
+	padding-top: 0.02em;
+	margin-right: 0.4em;
+	vertical-align: center;
+	color: transparent;
+	transition: .3s;
+
+}
+#halfs input[type=checkbox] + label:active:before
+{
+	transform: scale(0);
+}
+#halfs input[type=checkbox]:checked +label:before
+{
+	background-color: white;
+	color: black;
+}
+
+
+/*for subject radiobox ends*/
+
+/*for voucher checkboxbox starts*/
+
+#checkallstudent input[type=checkbox] + label
+{
+	color: white;
+	font-weight: 500;
+	margin: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+#checkallstudent input[type=checkbox]
+{
+	display: none;
+}
+#checkallstudent input[type=checkbox] + label:before
+{
+	content: "\2714";	
+	border:0.2em solid gray;
+	border-radius: 15px;
+	padding-left: 0.01em;
+	padding-right: 0.01em;
+	padding-bottom: 0.01em;
+	padding-top: 0em;
+	margin-right: 0.1em;
+	vertical-align: center;
+	color: transparent;
+	transition: .3s;
+
+}
+#checkallstudent input[type=checkbox] + label:active:before
+{
+	transform: scale(0);
+}
+#checkallstudent input[type=checkbox]:checked +label:before
+{
+	background-color: white;
+	color: black;
+}
+
+
+/*for voucher checkbox ends*/
+
+
+/*for voucher checkboxbox starts*/
+
+#checkall input[type=checkbox] + label
+{
+	color: white;
+	font-weight: 500;
+	margin: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+#checkall input[type=checkbox]
+{
+	display: none;
+}
+#checkall input[type=checkbox] + label:before
+{
+	content: "\2714";	
+	border:0.2em solid gray;
+	border-radius: 15px;
+	padding-left: 0.01em;
+	padding-right: 0.01em;
+	padding-bottom: 0.01em;
+	padding-top: 0em;
+	margin-right: 0.1em;
+	vertical-align: center;
+	color: transparent;
+	transition: .3s;
+
+}
+#checkall input[type=checkbox] + label:active:before
+{
+	transform: scale(0);
+}
+#checkall input[type=checkbox]:checked +label:before
+{
+	background-color: white;
+	color: black;
+}
+
+
+/*for voucher checkbox ends*/
+
+
+
+
+/*guardian selection starts*/
+.radio
+{
+	color:  #5E5E5E;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: capitalize;
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	padding-left: 20px;
+	cursor: pointer;
+	user-select: none;
+	top: 18px
+}
+.radio + .radio
+{
+	margin-left: 15px;  
+}
+.radio input[type="radio"]
+{
+	display: none;
+}
+.radio span
+{
+	height: 17px;
+	width: 17px;
+	border-radius: 50%;
+	border : 3px solid #5E5E5E;
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 5px;
+}
+.radio span:after
+{
+	content: "";
+	height: 9px;
+	width: 9px;
+	background:gray;
+	display: block;
+	position: absolute;
+	left: 50%
+	top: 50%;
+	transform: translate(-50%,-50%) scale(0);
+	border-radius: 50%;
+	transition :150ms ease-in-out 0s;
+}
+.radio input[type="radio"]:checked ~ span:after
+{
+	transform: translate(10%, 10%) scale(1);
+}
+/*guardian selection starts*/
+

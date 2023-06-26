@@ -1,0 +1,734 @@
+/*Responsive the title*/
+@media screen and (max-width: 1222px)
+{
+	.adform
+	{
+		font-size: 45px;
+	}
+
+}
+@media screen and (max-width: 1172px)
+{
+	.adform
+	{
+		font-size: 40px;
+	}
+
+}
+@media screen and (max-width: 1122px)
+{
+	.adform
+	{
+		font-size: 35px;
+	}
+	#Test
+	{
+		font-size: 13px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+
+}
+@media screen and (max-width: 1072px)
+{
+	.adform
+	{
+		font-size: 30px;
+	}
+	#Test
+	{
+		font-size: 11px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+
+}
+@media screen and (max-width: 1022px)
+{
+	.adform
+	{
+		font-size: 25px;
+	}
+	#Test
+	{
+		font-size: 11px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+}
+@media screen and (max-width: 991px)
+{
+	.logo1
+	{
+		width: 100px;
+		margin-left: 5%;
+	}
+	.logo2
+	{
+		width: 300px;
+	}
+	.adform
+	{
+		font-size: 30px;
+		position: absolute;
+	}
+	.form1
+	{
+		padding: 50px;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+	#Test
+	{
+		font-size: 16px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+}
+
+@media screen and (max-width: 767px)
+{
+	.adform
+	{
+		font-size: 25px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+	#Test
+	{
+		font-size: 16px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+}
+@media screen and (max-width: 712px)
+{
+	.form1 div
+	{
+		font-size: 20px;
+	}
+	.logo1
+	{
+		width: 80px;
+		margin-left: 5%;
+	}
+	.logo2
+	{
+		width: 250px;
+	}
+	.adform
+	{
+		font-size: 20px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+	#subj input[type=checkbox] + label:before
+	{
+		padding-left: 0em;
+		padding-right: 0em;
+		padding-bottom: 0em;
+		padding-top: 0em;
+	}
+	#Test
+	{
+		font-size: 16px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+}
+@media screen and (max-width: 662px)
+{
+	.form1 div
+	{
+		font-size: 20px;
+	}
+	.adform
+	{
+		font-size: 15px;
+		position: absolute;
+		margin-left: 62%;
+	}
+	.next
+	{
+		margin-top: -70px;
+	}
+	#subj input[type=checkbox] + label:before
+	{
+		padding-left: 0em;
+		padding-right: 0em;
+		padding-bottom: 0em;
+		padding-top: 0em;
+	}
+	#Test
+	{
+		font-size: 16px;
+	}
+	.topblank1
+	{
+		width: 5%
+	}
+	.printadform
+	{
+		width: 40%; 
+	}
+	.printadform p
+	{
+		font-size: 15px;
+	}
+	.topblank2
+	{
+		width: 10%
+	}
+	.printlogo 
+	{
+		width: 40%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+}
+
+/*responsive the title ends*/
+
+
+
+
+
+
+
+/*print responsive*/
+
+@media print
+{
+	/*for student form starts*/
+	.status
+	{
+		display: none;
+	}
+	.addmore
+	{
+		display: none;
+	}
+	.topblank1
+	{
+		width: 10%
+	}
+	.printadform
+	{
+		width: 28%; 
+	}
+	.printadform p
+	{
+		font-size: 28px;
+	}
+	.topblank2
+	{
+		width: 32%
+	}
+	.printlogo 
+	{
+		width: 25%;
+		border-radius: 0px;
+		border:0px;
+	}
+	.topblank3
+	{
+		width: 5%
+	}
+	.form1
+	{
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+	.section1
+	{
+		margin-left:3px;
+		width: 22%;
+	}
+	.section11
+	{
+		margin-left:3px;
+		width: 22%;
+	}
+	.section111
+	{
+		margin-left:3px;
+		width: 20%;
+	}
+	.section1111
+	{
+		margin-left:3px;
+		width: 34%;
+	}
+	.section2
+	{
+		width: 24%;
+	}
+	.section22
+	{
+		width: 50%;
+	}
+	.section222
+	{
+		width: 24%;
+	}
+	.snamec
+	{
+		width: 50%
+	}
+	.sname
+	{
+		background-color:#586261; 
+		padding-top: 13px;
+		padding-bottom: 13px;
+		padding-right: 8px;
+		padding-left: 7px;
+	}
+	.sfnamec
+	{
+		width: 50%
+	}
+	.fname
+	{
+		 background-color:#586261; 
+		 padding-top: 13px;
+		 padding-bottom: 15px;
+		 padding-right: 10px;
+		 padding-left: 10px;
+
+	}
+	.genderc
+	{	
+		width: 33%;
+	}
+	.gender
+	{
+		background-color:#586261; 
+		padding-top: 13px; 
+		padding-bottom:13px;
+		padding-right: 8px;
+		padding-left: 8px;
+	}
+	
+	.dobc
+	{
+		width: 40%;
+	}
+	.dob
+	{
+		 background-color:#586261; 
+		 padding-top:13px; 
+		 padding-bottom:13px;
+		 padding-right: 10px;
+		 padding-left: 10px;
+	}
+	.religionc
+	{
+		width: 33%;
+	}
+	.religion
+	{
+		 background-color:#586261; 
+		 padding-top: 13px; 
+		 padding-bottom:13px;
+		 padding-left: 10px;
+		 padding-right: 10px;
+	}
+	.domicilec
+	{
+		width: 34%;
+	}
+	.domicile
+	{
+		 background-color:#586261; 
+		 padding-top: 13px; 
+		 padding-bottom:13px;
+		 padding-left: 10px;
+		 padding-right: 10px;
+	}
+	.cnicc
+	{
+		width: 60%
+	}
+	.cnic
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.addressc
+	{
+		width: 60%
+	}
+	.nationalityc
+	{
+		width: 40%
+	}
+	.nationality
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.address
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.phonec
+	{
+		width: 30%
+	}
+	.phone
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 5px;
+		padding-right: 5px;	
+	}
+	.cellc
+	{
+		width: 30%
+	}
+	.cell
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.emailc
+	{
+		width: 40%
+	}
+	.email
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 10px;
+		padding-right: 10px;	
+	}
+	.gnamec
+	{
+		width: 40%;
+	}
+	.gname
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	.gemailc
+	{
+		width: 60%;
+	}
+	.gemail
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 11px;
+		padding-right: 11px;	
+	}
+	.gcnicc
+	{
+		width: 36%;
+	}
+	.gcnic
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	.gphonec
+	{
+		width: 33%;
+	}
+	.gphone
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 11px;
+		padding-right: 11px;	
+	}
+	.gcellc
+	{
+		width: 31%;
+	}
+	.gcell
+	{
+		background-color:#586261; 
+	 	padding-top: 13px; 
+		padding-bottom:13px;
+		padding-left: 20px;
+		padding-right: 20px;	
+	}
+	
+	.subjectc
+	{
+		width: 70%;	
+	}
+	.nosubjc
+	{
+		width: 30%;	
+	}
+	.line
+	{
+		display: none;
+	}
+	.feedetailc
+	{
+		width: 50%;
+	}
+	.actualc
+	{
+		width: 16%;	
+	}
+	.discountc
+	{
+		width: 17%;	
+	}
+	.totalc
+	{
+		width: 16%;	
+	}
+	.admissionc
+	{
+		width: 19%;	
+	}
+	.tuitionc
+	{
+		width: 16%;	
+	}
+	.specialc
+	{
+		width: 16%;	
+	}
+	
+	.rollc
+	{
+		width: 30%;
+	}
+	.roll
+	{
+		background-color:#586261;
+		padding-top:13px;
+		padding-bottom: 13px;
+		padding-left: 6px;
+		padding-right:6px;
+	}
+	.commentc
+	{
+		width:70%;
+	}
+	.submitbyc
+	{
+		width: 50%;
+	}
+	.submitby
+	{
+		background-color:#586261;
+		padding:13px;	
+	}
+	.approvebyc
+	{
+		width: 50%;
+	}
+	.approveby
+	{
+		background-color:#586261;
+		padding:13px;		
+	}
+
+	/*for student form ends*/
+
+	#voucherbg
+	{
+		background-color: lightgray;
+		padding-top:13px;
+		padding-bottom: 14px;
+		padding-left: 5px;
+		padding-right: 4px;
+	}
+	#datebg
+	{
+		background-color: lightgray;
+		padding-top:13px;
+		padding-bottom: 14px;
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+	
+}
